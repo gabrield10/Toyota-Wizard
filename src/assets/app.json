@@ -1,0 +1,311 @@
+{
+    "questions":[
+        {
+            "id": 1,
+            "question":"What is most important in service?",
+            "categories": [
+                {
+                    "id": 1,
+                    "name": "quality",
+                    "answers":[
+                        {
+                            "id": 1,
+                            "answer": "I want to be informed before and after"
+                        },
+                        {
+                            "id": 2,
+                            "answer": "I want you to understand my needs"
+                        },
+                        {
+                            "id": 3,
+                            "answer": "I do not want to track your work"
+                        },
+                        {
+                            "id": 4,
+                            "answer": "I want to be able to trust you"
+                        },
+                        {
+                            "id": 5,
+                            "answer": "I want to work with professionals"
+                        },
+                        {
+                            "id": 6,
+                            "answer": "I want service tailored to my needs"
+                        },
+                        {
+                            "id": 7,
+                            "answer": "I want you to listen to me"
+                        },
+                        {
+                            "id": 8,
+                            "answer": "I want someone to take care of my problems"
+                        },
+                        {
+                            "id": 9,
+                            "answer": "I want you to think (ahead) for me"
+                        },
+                        {
+                            "id": 10,
+                            "answer": "I do not want to care about everything"
+                        },
+                        {
+                            "id": 11,
+                            "answer": "I want to sell my truck later for the best possible price"
+                        },
+                        {
+                            "id": 12,
+                            "answer": "I want the same technician every time"
+                        }
+                    ]  
+                },
+                {
+                    "id": 2,
+                    "name": "safety",
+                    "answers":[
+                        {
+                            "id": 13,
+                            "answer": "I want my people to be safe"  
+                        },
+                        {
+                            "id": 14,
+                            "answer": "I do not want to lose insurance validity" 
+                        },
+                        {
+                            "id": 15,
+                            "answer": "I want to be safe with audits"
+                        },
+                        {
+                            "id": 16,
+                            "answer": "I do not want to take an unnessary legal risk"
+                        },
+                        {
+                            "id": 17,
+                            "answer": "I do not want to deal with all the requirementss"
+                        }
+                    ]
+
+                },
+                {
+                    "id": 3,
+                    "name": "sustainability",
+                    "answers":[
+                        {
+                            "id": 18,
+                            "answer": "I want a partner that respects the environment"
+                        },
+                        {
+                            "id": 19,
+                            "answer": "I do not want to have hydraulic oil or else on the ground"
+                        }   
+                    ]  
+                },
+                {
+                    "id": 4,
+                    "name": "availability",
+                    "answers":[
+                        {
+                            "id": 20,
+                            "answer": "I want you to prevent production interruptions"
+                        },
+                        {
+                            "id": 21,
+                            "answer": "I want you to fix things asap when needed"
+                        },
+                        {
+                            "id": 22,
+                            "answer": "I want my fleet to be up and running all the time"
+                        },
+                        {
+                            "id": 23,
+                            "answer": "I want to be sure that my operations run smoothly"
+                        },
+                        {
+                            "id": 24,
+                            "answer": "I want immediate breakdown cover"
+                        },
+                        {
+                            "id": 25,
+                            "answer": "I want you to be available 24/7"
+                        },
+                        {
+                            "id": 26,
+                            "answer": "I need someone from you here all the time"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "risk reduction",  
+                    "answers":[
+                        {
+                            "id": 27,
+                            "answer": "I do not want to lose warranty coverage"    
+                        },
+                        {
+                            "id": 28,
+                            "answer": "I want to pay on a monthly basis"
+                        },
+                        {
+                            "id": 29,
+                            "answer": "I want to have access to Service reports"
+                        },
+                        {
+                            "id": 30,
+                            "answer": "I want to make use of online fleet monitoring"
+                        },
+                        {
+                            "id": 31,
+                            "answer": "I do not want any surprises"
+                        }
+                    ]
+                }
+            ]  
+        },
+        {
+            "id": 2,
+            "question":"What type is your application?",
+            "categories": [
+                {
+                    "id": 6,
+                    "name":"application",
+                    "answers":[
+                        {
+                            "id": 32,
+                            "answer": "Manufacturing"
+                        },
+                        {
+                            "id": 33,
+                            "answer": "Retail" 
+                        },
+                        {
+                            "id": 34,
+                            "answer": "DIY"
+                        },
+                        {
+                            "id": 35,
+                            "answer": "Chemicals & Pharma"
+                        },
+                        {
+                            "id": 36,
+                            "answer": "Transport & Logistics"
+                        },
+                        {
+                            "id": 37,
+                            "answer": "Food & Beverages"
+                        },
+                        {
+                            "id": 38,
+                            "answer": "Automotive"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question":"What type is your speciality?",
+            "categories": [
+                {
+                    "id": 7,
+                    "name":"speciality",
+                    "answers":[
+                        {
+                            "id": 39,
+                            "answer": "Coldstore"
+                        },
+                        {
+                            "id": 40,
+                            "answer": "Fisheries"
+                        },
+                        {
+                            "id": 41,
+                            "answer": "Food production"
+                        },
+                        {
+                            "id": 42,
+                            "answer": "Printing & packaging"
+                        },
+                        {
+                            "id": 43,
+                            "answer": "Airports"
+                        },
+                        {
+                            "id": 44,
+                            "answer": "Explosion-protection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question":"What is the average number of hours used?",
+            "categories": [
+                {
+                    "id": 8,
+                    "name":"runhours",
+                    "answers":[
+                        {
+                            "id": 45,
+                            "answer": "0-300"
+                        },
+                        {
+                            "id":46,
+                            "answer": "600-1200"
+                        },
+                        {
+                            "id":47,
+                            "answer":"1200-1500"
+                        },
+                        {
+                            "id":48,
+                            "answer":"1500-1800"
+                        },
+                        {
+                            "id":49,
+                            "answer":"1800-2100"
+                        },
+                        {
+                            "id":50,
+                            "answer":"2100-2400"
+                        },
+                        {
+                            "id":51,
+                            "answer":"2400-2700"
+                        },
+                        {
+                            "id":52,
+                            "answer":"2700-3000"
+                        },
+                        {
+                            "id":53,
+                            "answer":"3000-3300"
+                        },
+                        {
+                            "id":54,
+                            "answer":"3300-3600"
+                        },
+                        {
+                            "id":55,
+                            "answer":"3600-3900"
+                        },
+                        {
+                            "id":56,
+                            "answer":"3900-4200"
+                        },
+                        {
+                            "id":57,
+                            "answer":"4200-4500"
+                        },
+
+                        {
+                            "id":58,
+                            "answer":"0-600"
+                        }
+
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,701 @@
+{
+    "answers":[
+        {
+            "id_answer":1,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":2,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":3,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":4,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":5,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":6,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":7,
+            "no_contract":"partly",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":8,
+            "no_contract":"partly",
+            "si":"partly",
+            "lsi_te":"partly",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":9,
+            "no_contract":"no",
+            "si":"partly",
+            "lsi_te":"partly",
+            "pm":"partly",
+            "pm_lsi_te":"partly",
+            "pm+":"partly",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":10,
+            "no_contract":"no",
+            "si":"partly",
+            "lsi_te":"partly",
+            "pm":"partly",
+            "pm_lsi_te":"partly",
+            "pm+":"partly",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":11,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":12,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"no",
+            "pm_lsi_te":"no",
+            "pm+":"partly",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":13,
+            "no_contract":"no",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":14,
+            "no_contract":"no",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":15,
+            "no_contract":"no",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":16,
+            "no_contract":"no",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"no",
+            "pm_lsi_te":"yes",
+            "pm+":"no",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":17,
+            "no_contract":"no",
+            "si":"partly",
+            "lsi_te":"partly",
+            "pm":"no",
+            "pm_lsi_te":"partly",
+            "pm+":"no",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":18,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":19,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":20,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":21,
+            "no_contract":"yes",
+            "si":"yes",
+            "lsi_te":"yes",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":22,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"partly",
+            "pm_lsi_te":"partly",
+            "pm+":"partly",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":23,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"partly",
+            "pm_lsi_te":"partly",
+            "pm+":"partly",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":24,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"no",
+            "pm_lsi_te":"no",
+            "pm+":"partly",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":25,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"no",
+            "pm_lsi_te":"no",
+            "pm+":"no",
+            "pm+_lsi_te":"no",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":26,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"no",
+            "pm_lsi_te":"no",
+            "pm+":"partly",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":27,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"yes",
+            "pm_lsi_te":"yes",
+            "pm+":"yes",
+            "pm+_lsi_te":"yes",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":28,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"no",
+            "pm_lsi_te":"no",
+            "pm+":"partly",
+            "pm+_lsi_te":"partly",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":29,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"no",
+            "pm_lsi_te":"no",
+            "pm+":"no",
+            "pm+_lsi_te":"no",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":30,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"no",
+            "pm_lsi_te":"no",
+            "pm+":"no",
+            "pm+_lsi_te":"no",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":31,
+            "no_contract":"no",
+            "si":"no",
+            "lsi_te":"no",
+            "pm":"no",
+            "pm_lsi_te":"no",
+            "pm+":"no",
+            "pm+_lsi_te":"no",
+            "fs_lsi_te":"yes"
+        },
+
+        {
+            "id_answer":32,
+            "no_contract":"",
+            "si":"Manufacturing",
+            "lsi_te":"Manufacturing",
+            "pm":"",
+            "pm_lsi_te":"Manufacturing",
+            "pm+":"",
+            "pm+_lsi_te":"Manufacturing",
+            "fs_lsi_te":"Manufacturing"
+        },
+
+        {
+            "id_answer":33,
+            "no_contract":"",
+            "si":"Retail",
+            "lsi_te":"Retail",
+            "pm":"",
+            "pm_lsi_te":"Retail",
+            "pm+":"",
+            "pm+_lsi_te":"Retail",
+            "fs_lsi_te":"Retail"
+        },
+
+        {
+            "id_answer":34,
+            "no_contract":"",
+            "si":"DIY",
+            "lsi_te":"DIY",
+            "pm":"",
+            "pm_lsi_te":"DIY",
+            "pm+":"",
+            "pm+_lsi_te":"DIY",
+            "fs_lsi_te":"DIY"
+        },
+
+        {
+            "id_answer":35,
+            "no_contract":"",
+            "si":"Chemicals & Pharma",
+            "lsi_te":"Chemicals & Pharma",
+            "pm":"",
+            "pm_lsi_te":"Chemicals & Pharma",
+            "pm+":"",
+            "pm+_lsi_te":"Chemicals & Pharma",
+            "fs_lsi_te":"Chemicals & Pharma"
+        },
+
+        {
+            "id_answer":36,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"Transport & Logistics",
+            "fs_lsi_te":"Transport & Logistics"
+        },
+
+
+        {
+            "id_answer":37,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"Food & Beverages",
+            "pm+":"",
+            "pm+_lsi_te":"Food & Beverages",
+            "fs_lsi_te":"Food & Beverages"
+        },
+
+        {
+            "id_answer":38,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"Automotive",
+            "pm+":"",
+            "pm+_lsi_te":"Automotive",
+            "fs_lsi_te":"Automotive"
+        },
+
+        {
+            "id_answer":39,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"Coldstore",
+            "pm+":"",
+            "pm+_lsi_te":"Coldstore",
+            "fs_lsi_te":"Coldstore"
+        },
+
+        {
+            "id_answer":40,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"Fisheries",
+            "pm+":"",
+            "pm+_lsi_te":"Fisheries",
+            "fs_lsi_te":"Fisheries"
+        },
+
+        {
+            "id_answer":41,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"Food production",
+            "pm+":"",
+            "pm+_lsi_te":"Food production",
+            "fs_lsi_te":"Food production"
+        },
+
+        {
+            "id_answer":42,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"Printing & packaging",
+            "pm+":"",
+            "pm+_lsi_te":"Printing & packaging",
+            "fs_lsi_te":"Printing & packaging"
+        },
+        
+        {
+            "id_answer":43,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"Airports",
+            "pm+":"",
+            "pm+_lsi_te":"Airports",
+            "fs_lsi_te":"Airports"
+        },
+
+        {
+            "id_answer":44,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"Explosion-protection",
+            "pm+":"",
+            "pm+_lsi_te":"Explosion-protection",
+            "fs_lsi_te":"Explosion-protection"
+        },
+
+        {
+            "id_answer":45,
+            "no_contract":"0-300",
+            "si":"0-300",
+            "lsi_te":"0-300",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":""
+        },
+
+        {
+            "id_answer":46,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"600-1200",
+            "pm_lsi_te":"600-1200",
+            "pm+":"600-1200",
+            "pm+_lsi_te":"600-1200",
+            "fs_lsi_te":""
+        },
+
+        {
+            "id_answer":47,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"1200-1500"
+        },
+
+        {
+            "id_answer":48,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"1500-1800"
+        },
+
+        {
+            "id_answer":49,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"1800-2100"
+        },
+
+        {
+            "id_answer":50,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"2100-2400"
+        },
+
+        {
+            "id_answer":51,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"2400-2700"
+        },
+
+        {
+            "id_answer":52,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"2700-3000"
+        },
+
+        {
+            "id_answer":53,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"3000-3300"
+        },
+
+        {
+            "id_answer":54,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"3300-3600"
+        },
+
+        {
+            "id_answer":55,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"3600-3900"
+        },
+
+        {
+            "id_answer":56,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"3900-4200"
+        },
+
+        {
+            "id_answer":57,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"",
+            "pm_lsi_te":"",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":"4200-4500"
+        },
+
+        {
+            "id_answer":58,
+            "no_contract":"",
+            "si":"",
+            "lsi_te":"",
+            "pm":"0-600",
+            "pm_lsi_te":"0-600",
+            "pm+":"",
+            "pm+_lsi_te":"",
+            "fs_lsi_te":""
+        }
+        
+    ]
+}
