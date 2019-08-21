@@ -16,6 +16,8 @@ import { DataService } from "./services/data.service";
 import { AppComponent } from './app.component';
 import { FormComponent } from './components/form/form.component';
 import { QuestionsComponent } from './components/questions/questions.component';
+import { WelcomeComponent } from './components/welcome/welcome.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 
 
@@ -23,7 +25,9 @@ import { QuestionsComponent } from './components/questions/questions.component';
   declarations: [
     AppComponent,
     FormComponent,
-    QuestionsComponent
+    QuestionsComponent,
+    WelcomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

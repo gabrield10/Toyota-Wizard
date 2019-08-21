@@ -1,6 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Roboto&display=swap');
 body{
     padding: 0;
     margin: 0;
+    background-color: #242C38;
+    color: white;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+}
+.footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 8px;
+    text-align: left;
+    position: fixed;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
